@@ -12,11 +12,11 @@ ASSIGNMENT REQUIREMENTS (DO NOT DELETE)
 -----------------------------------------------------------------------
 """
 
-# How much an apple weighs
-fruit = "Apple"
-quantity = 1
-weight_pounds = 0.33
-on_sale = True
+#
+Character_name = "Mario"
+Level = 13
+Speed = 4.95
+Alive = "True"
 
-print(f"{quantity} {fruit} weighs {weight_pounds} pounds")
-print(f"They're on sale? {on_sale}")
+print(f"{Character_name} Level {Level} Speed: {Speed}(m/s)")
+print(f"Is character alive? {Alive}")
