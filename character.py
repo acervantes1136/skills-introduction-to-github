@@ -12,7 +12,7 @@ ASSIGNMENT REQUIREMENTS (DO NOT DELETE)
 -----------------------------------------------------------------------
 """
 
-#
+# Character Information
 Character_name = "Mario"
 Level = 13
 Speed = 4.95
